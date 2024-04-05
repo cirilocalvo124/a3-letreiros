@@ -1,0 +1,43 @@
+body {
+  background-color: #7b7bea;
+}
+
+
+h1,
+h2 {
+  border: 1px solid #6262da;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #4c5794;
+}
+
+#tps {
+
+  width: 40%;
+  height: auto;
+  border-radius: 10px;
+  position: absolute;
+  top: 200px;
+  left: 0px;
+
+
+}
+
+#tpsbuto {
+  width: 40%;
+  height: 40px;
+  border-radius: 10px;
+  position: absolute;
+  top: 200px;
+  left: 700px;
+}
+
+
+#tpsbuto2 {
+  width: 40%;
+  height: 40px;
+  border-radius: 10px;
+  position: absolute;
+  top: 300px;
+  left: 700px;
+}
